@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter & VSCode/PyCharm
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# OS & log files
+.DS_Store
+*.log
+
+# fastMRI raw data
+*.h5
+*.tar.xz
+*.nii
+*.npy
+*.pt
+*.pth
+
+# Env/Build
+.env
+*.egg-info/
