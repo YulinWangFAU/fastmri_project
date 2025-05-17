@@ -1,0 +1,10 @@
+numpy
+matplotlib
+torch>=1.10
+torchvision
+h5py
+scikit-image
+tqdm
+pandas
+
+git+https://github.com/facebookresearch/fastMRI.git
